@@ -1,0 +1,20 @@
+# Python bytecode (automatically generated)
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# MediaPipe Models
+*.pt
+*.task
+
+# IDEs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
